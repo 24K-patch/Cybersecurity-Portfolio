@@ -12,6 +12,8 @@ I am a Focused cybersecurity professional documenting my hands-on learning journ
 
 ## 📁 Completed Projects & Labs
 * [Metasploitable 2 Vulnerability Assessment](./labs/metasploitable2-walkthrough.md) - Exploiting vsftpd 2.3.4 backdoor using Parrot OS.
+* [bWAPP Web Security Labs](./labs/bwapp-vulnerability-labs.md) - Exploiting HTML Injection, Command Injection, and Brute Force attacks.
+
 
 ##📁 Completed Projects & Labs
 * *Coming Soon: My First Home Lab Configuration*
