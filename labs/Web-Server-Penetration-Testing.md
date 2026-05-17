@@ -22,7 +22,6 @@ Now I am going to bruteforce for the password of the user 'Admin'
 As seen, I was able to login to the site:
 * <img width="786" height="726" alt="image" src="https://github.com/user-attachments/assets/7fc6d1b5-449c-4d8f-b942-b98bb966861d" />
 
-
 ## 3. Remediation & Defense Mapping
 **To secure this infrastructure against both WordPress-level and OS-level exploitation, the following controls should be applied:**
 1. **Plugin Hygiene:** Remove or update the vulnerable plugins identified during the scan. Implement a policy of "least privilege" for plugins to reduce the attack surface.
