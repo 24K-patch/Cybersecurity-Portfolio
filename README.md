@@ -22,3 +22,4 @@ I am a Focused cybersecurity professional documenting my hands-on learning journ
 ## 🏆 CTF Write-ups
 * [Mr. Robot (VulnHub)](./ctfs/mr-robot-walkthrough.md) - Privilege escalation and web discovery.
 
+## INSPIRED BY HACKERSPLOIT
