@@ -19,6 +19,8 @@ Now I am going to bruteforce for the password of the user 'Admin'
 * **Tool Used:** WPScan
 * **Result:** The bruteforce was successful and I was able to obtain the user's password as seen from the result
 * <img width="786" height="726" alt="image" src="https://github.com/user-attachments/assets/6bb9db49-4e00-4263-a7e7-77473fabf9b3" />
+As seen, I was able to login to the site:
+* <img width="786" height="726" alt="image" src="https://github.com/user-attachments/assets/7fc6d1b5-449c-4d8f-b942-b98bb966861d" />
 
 
 ## 3. Remediation & Defense Mapping
