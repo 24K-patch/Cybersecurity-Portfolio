@@ -13,6 +13,8 @@ Using Nmap, I scanned the target machine to analyze open network daemons.
 <img width="798" height="905" alt="image" src="https://github.com/user-attachments/assets/a4fe3791-4fbb-445d-a0a5-61cb18200665" />
 
 * **Discoveries:** Port 139 was identified as open, exposing an outdated version of Samba
+<img width="798" height="235" alt="image" src="https://github.com/user-attachments/assets/f31e8e81-933a-490b-bdd6-0f085b486839" />
+
 
 ## 2. Exploitation & Root Compromise
 The Samba server does not have a backdoor installed, so we will use a payload since it has a buffer overflow
