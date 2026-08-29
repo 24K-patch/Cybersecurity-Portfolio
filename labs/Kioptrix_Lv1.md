@@ -106,4 +106,10 @@ Update to a current Samba release, and never expose SMB directly to the internet
 
 ---
 
+*Incase you would want to log in to the Kioptrix Level 1 Vulnerable Machine, you can use the below credentials:*
+
+*User: john*
+
+*Pass: TwoCows2*
+
 *Practiced on Kioptrix: Level 1 — a deliberately vulnerable VM intended for authorized security training and CTF practice.*
