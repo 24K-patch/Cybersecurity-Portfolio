@@ -96,12 +96,12 @@ run
 ```
 <img width="468" height="129" alt="Image" src="https://github.com/user-attachments/assets/a7d4ba04-78d6-4e09-ab3b-317cb78fef8d" />
 
-## Remediation:
+# Remediation:
 
-# Apache/mod_ssl "OpenFuck" (CVE-2002-0082)
+## Apache/mod_ssl "OpenFuck" (CVE-2002-0082)
 Keep Apache, mod_ssl, and OpenSSL on current patched versions — this is a buffer overflow in old SSL handshake handling that's been fixed for over two decades. Beyond patching, disable legacy protocols (SSLv2, SSLv3, TLS 1.0/1.1) entirely in the server config, since they carry known structural weaknesses independent of any single CVE.
 
-# Samba
+## Samba
 Update to a current Samba release, and never expose SMB directly to the internet — restrict it to your internal network range at the service/firewall level. If a host doesn't actually need file sharing, remove Samba rather than leaving it installed and unpatched.
 
 ---
